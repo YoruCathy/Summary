@@ -3,3 +3,10 @@ efﬁciency and skill
 adaptability
 
 1.2 automaated assembly system
+
+2. Kinematics
+kinematics: the study of motion without the cause of the motion
+Consider a system to be a set of points in some ambient sopace
+E^2 two dimentional Euclideam space for planar kinematics
+E^3 three dimentional Euclidean space for spatial kinematics 
+S^2 three dimentional Euclidean space of a sphere
