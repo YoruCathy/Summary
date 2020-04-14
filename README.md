@@ -5,3 +5,6 @@ Read and review some books on robots
 
 # Detection
 1.Paper summary of anchor free detectors
+
+# 3D Object Modelling
+1.SampleNet vs learning to sample
