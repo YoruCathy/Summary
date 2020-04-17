@@ -8,4 +8,4 @@ Read and review some books on robots
 
 # 3D Object Modelling
 1.SampleNet vs learning to sample  
-2.Marching Cubes: Bases on sklearn and PyMCubes
+2.What is isometric and non-isometric?
