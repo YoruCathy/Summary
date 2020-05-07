@@ -7,6 +7,6 @@ Read and review some books on robots
 1.Paper summary of anchor free detectors
 
 # 3D Object Modelling
-- [ ] 1.SampleNet vs learning to sample  
+- [ ] SampleNet vs learning to sample  
 - [x] What is isometric and non-isometric?
-- [ ] 3.Non-isometric shape correspondence
+- [ ] Non-isometric shape correspondence
