@@ -8,5 +8,5 @@ Read and review some books on robots
 
 # 3D Object Modelling
 - [ ] 1.SampleNet vs learning to sample  
-2.What is isometric and non-isometric?
+- [ ] 2.What is isometric and non-isometric?
 - [ ] 3.Non-isometric shape correspondence
