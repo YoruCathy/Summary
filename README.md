@@ -10,3 +10,5 @@ Read and review some books on robots
 - [ ] SampleNet vs learning to sample  
 - [x] What is isometric and non-isometric?
 - [ ] Non-isometric shape correspondence
+- [ ] MPI-Faust Tutorial
+
