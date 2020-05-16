@@ -12,3 +12,5 @@ Read and review some books on robots
 - [ ] Non-isometric shape correspondence
 - [ ] MPI-Faust Tutorial
 
+# Paper summary
+- [ ] Mesh-RCNN
