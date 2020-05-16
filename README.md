@@ -14,3 +14,6 @@ Read and review some books on robots
 
 # Paper summary
 - [ ] Mesh-RCNN
+
+# Signal Processing
+- [x] Wavelet Tutorial
