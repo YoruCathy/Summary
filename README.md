@@ -7,7 +7,7 @@ Read and review some books on robots
 - [x] Paper summary of anchor-free detectors
 
 # 3D Object Modelling
-- [ ] SampleNet vs learning to sample  
+- [ ] Auto Encoders : AE vs VAE vs DAE
 - [x] What is isometric and non-isometric?
 - [ ] Non-isometric shape correspondence
 - [ ] MPI-Faust Tutorial
