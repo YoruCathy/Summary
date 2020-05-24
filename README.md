@@ -7,7 +7,7 @@ Read and review some books on robots
 - [x] Paper summary of anchor-free detectors
 
 # 3D Object Modelling
-- [ ] Auto Encoders : AE vs VAE vs DAE
+- [x] [Auto Encoders : AE vs VAE vs DAE](https://github.com/YoruCathy/Auto-encoders-on-3D)
 - [x] What is isometric and non-isometric?
 - [ ] Non-isometric shape correspondence
 - [ ] MPI-Faust Tutorial
